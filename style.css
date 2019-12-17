@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+     background-color:rgb(222, 224, 211);
+     font-family: 'Roboto', sans-serif;
+}
+.container{
+    max-width: 1000px;
+    background-color: rgb(244, 249, 250) ;
+    margin: 0 auto;
+    padding: 20px;
+}
+header{
+
+}
+.profile-image{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+
+}
+h1,h2,h3,h4,h5,h6{
+    color:lightseagreen;
+
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border:solid white 2px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+#personal-section{
+
+}
+.content{
+    margin-bottom: 3opx;
+ padding: 20px;
+}
+.left-div{
+    width:30% ;
+ float: left;
+}
+.right-div{
+    width: 70%;
+    float: left;
+
+}
+.common-hr{
+    border: solid lightskyblue 1px;
+    border-bottom:none ;
+    width:100%;
+    margin: 0 auto;
+}
+.Information{
+    margin-bottom: 3opx;
+    padding: 30px;
+
+}    
+
+
